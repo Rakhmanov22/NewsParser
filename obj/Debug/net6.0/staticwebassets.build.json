@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kwR4zR9rpGYFX4PNvNzzQOaSE0xcfQOdPNAkNuaZuXI=",
+  "Source": "NewsParser",
+  "BasePath": "_content/NewsParser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
